@@ -1,0 +1,23 @@
+{
+  "name": "Word-Guess-Cli-Game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liaswapna/Word-Guess-Cli-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liaswapna/Word-Guess-Cli-Game/issues"
+  },
+  "homepage": "https://github.com/liaswapna/Word-Guess-Cli-Game#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  }
+}
