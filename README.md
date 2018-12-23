@@ -3,6 +3,12 @@
 ---
 Word Guess command-line game using constructor functions.
 
+### Getting Started
+---
+* Clone down repo.
+* Run command 'npm install' in Terminal or GitBash
+* Run command 'node App.js'.
+
 ### Accepted Commands
 ---
 
