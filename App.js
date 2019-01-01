@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const Word = require('./Word');
-let wordArray = ['hello world','Sun flower','a thousand years','Seattle center'];
+let wordArray = ['hello world','happy christmas','new year'];
 
 // shuffle the array
 wordArray.sort((a,b) => {

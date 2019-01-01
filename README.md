@@ -44,4 +44,5 @@ Word Guess command-line game using constructor functions.
 
   * Prompts the user for each guess and keeps track of the user's remaining guesses
 
-
+### NOTE
+* [watch the demo video](https://drive.google.com/file/d/1DtiFQeIIFBAV6I8vIaGfgPlY-JFpoDyK/view?usp=sharing)
